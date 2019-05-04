@@ -52,9 +52,13 @@ So here in the image we have separate ingredients which in case of Computer Visi
 
 
 
-**Kernels** : One **single** **onion** here is like a **kernel** , but  all onions combined together forms a channel.
+**Kernels** : One **single** **onion** here is like a **kernel** , 
+but  all onions combined together forms a channel.
 
-![](https://qph.fs.quoracdn.net/main-qimg-5905bb375bdfa4cbd638eb349066991f) For example in the below image all onions combined together forms a Channel.
+![](https://qph.fs.quoracdn.net/main-qimg-5905bb375bdfa4cbd638eb349066991f) 
+
+For example in the below image all onions combined together forms a Channel.
+
 ![](https://www.kannammacooks.com/wp-content/uploads/Tamilnadu-muslim-chicken-biriyani-recipe-spices.jpg) 
 
 
